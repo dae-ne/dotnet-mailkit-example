@@ -3,6 +3,9 @@ using MailKit.Security;
 using MimeKit;
 
 const string host = "smtp.gmail.com";
+
+// 587 - TLS
+// 465 - SSL
 const int port = 587;
 
 const string senderEmail = "";

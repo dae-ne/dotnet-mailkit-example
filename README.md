@@ -11,18 +11,18 @@ library to send emails from a .NET application.
 
 ## Running the example
 
-1. Clone the repository
+1. Clone the repository.
 2. Edit the `Program.cs` file and replace the following values:
-   - `senderEmail`: the email address of the Gmail account you want to send emails from
-   - `senderName`: the name of the sender
-   - `senderPassword`: the app password generated for the Gmail account
-   - `recipientEmail`: the email address of the recipient
-   - `recipientName`: the name of the recipient
+   - `senderEmail` - the email address of the Gmail account you want to send emails from
+   - `senderName` - the name of the sender
+   - `senderPassword` - the app password generated for the Gmail account
+   - `recipientEmail` - the email address of the recipient
+   - `recipientName` - the name of the recipient
 3. Run the example:
     ```bash
     dotnet run
     ```
-4. Check the inbox of the recipient email address
+4. Check the inbox of the recipient email address.
 
 ## License
 

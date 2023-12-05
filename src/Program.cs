@@ -19,7 +19,7 @@ const string subject = "How you doin'?";
 const string body = $"""
     Hey,
     I am just writing to let you know that I am still alive.
-    -- {senderEmail}
+    -- {senderName}
     """;
 
 await SendEmailAsync(
